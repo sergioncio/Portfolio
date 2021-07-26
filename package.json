@@ -6,7 +6,6 @@
 	"repository": "https://github.com/sergioncio/Portfolio.git",
 	"author": "Sergio <sergioncio01@gmail.com>",
 	"license": "MIT",
-	"homepage": ".",
 	"dependencies": {
 		"@apollo/client": "^3.3.21",
 		"axios": "^0.21.1",
