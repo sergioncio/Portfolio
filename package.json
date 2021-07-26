@@ -1,10 +1,11 @@
 {
-	"name": "developer-portfolio",
+	"name": "Portfolio",
 	"version": "1.0.0",
-	"description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
+	"homepage":"https://ysergioncio.github.io/Portoflio",
+	"description": "Software Developer Portfolio Template built with react.js.",
 	"main": "index.js",
-	"repository": "https://github.com/1hanzla100/hanzla-portfolio.git",
-	"author": "Hanzla <59178380+1hanzla100@users.noreply.github.com>",
+	"repository": "https://github.com/sergioncio/Portfolio",
+	"author": "Sergio <sergioncio01@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
 		"@apollo/client": "^3.3.21",
@@ -34,7 +35,9 @@
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
-		"eject": "react-scripts eject"
+		"eject": "react-scripts eject",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
 	},
 	"browserslist": {
 		"production": [
@@ -50,6 +53,7 @@
 	},
 	"devDependencies": {
 		"@iconify-icons/logos": "^1.1.10",
-		"@iconify/react": "^1.1.4"
+		"@iconify/react": "^1.1.4",
+		"gh-pages": "^3.2.3"
 	}
 }
