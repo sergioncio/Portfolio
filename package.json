@@ -1,12 +1,12 @@
 {
-	"name": "Portfolio",
+	"name": "developer-portfolio",
 	"version": "1.0.0",
-	"homepage":"https://ysergioncio.github.io/Portoflio",
-	"description": "Software Developer Portfolio Template built with react.js.",
+	"description": "Software Developer Portfolio built with react.js.",
 	"main": "index.js",
-	"repository": "https://github.com/sergioncio/Portfolio",
+	"repository": "https://github.com/sergioncio/Portfolio.git",
 	"author": "Sergio <sergioncio01@gmail.com>",
 	"license": "MIT",
+	"homepage": ".",
 	"dependencies": {
 		"@apollo/client": "^3.3.21",
 		"axios": "^0.21.1",
