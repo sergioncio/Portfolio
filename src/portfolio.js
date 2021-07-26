@@ -7,7 +7,7 @@ export const greetings = {
 	name: "Sergio Garcia",
 	title: "Hi, I'm Sergio",
 	description:
-		"A last year Telematics Engineer Student passionate with Software Development and Web Development. Also I have worked with Object Detection AI algorithms. I am looking for a full time job where I can grow as a professional",
+		"A last year Telematics Engineering Student passionate with Software Development and Web Development. Also I have worked with Object Detection AI algorithms. I am looking for a full time job where I can grow as a professional",
 	resumeLink: Pdf,
 };
 
