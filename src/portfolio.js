@@ -132,7 +132,7 @@ export const educationInfo = [
 		desc: "",
 	},
 	{
-		schoolName: "HoGent University",
+		schoolName: "Hogeschool Gent",
 		subHeader: "7th International Smart Cities Intensive Programme",
 		duration: "February 2020",
 		desc: "Improved the connectivity and the security in a library",
