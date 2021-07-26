@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portoflio/static/css/main.fe0063e9.chunk.css",
+    "main.js": "/Portoflio/static/js/main.c9a319f0.chunk.js",
+    "main.js.map": "/Portoflio/static/js/main.c9a319f0.chunk.js.map",
+    "runtime-main.js": "/Portoflio/static/js/runtime-main.f7a10111.js",
+    "runtime-main.js.map": "/Portoflio/static/js/runtime-main.f7a10111.js.map",
+    "static/js/2.59fdc9fe.chunk.js": "/Portoflio/static/js/2.59fdc9fe.chunk.js",
+    "static/js/2.59fdc9fe.chunk.js.map": "/Portoflio/static/js/2.59fdc9fe.chunk.js.map",
+    "index.html": "/Portoflio/index.html",
+    "static/css/main.fe0063e9.chunk.css.map": "/Portoflio/static/css/main.fe0063e9.chunk.css.map",
+    "static/js/2.59fdc9fe.chunk.js.LICENSE.txt": "/Portoflio/static/js/2.59fdc9fe.chunk.js.LICENSE.txt",
+    "static/media/Navigation.css": "/Portoflio/static/media/Agustina.320d237b.otf",
+    "static/media/DH.febee658.png": "/Portoflio/static/media/DH.febee658.png",
+    "static/media/Resume.8a45dce4.pdf": "/Portoflio/static/media/Resume.8a45dce4.pdf",
+    "static/media/font-awesome.min.css": "/Portoflio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/nucleo.css": "/Portoflio/static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7a10111.js",
+    "static/js/2.59fdc9fe.chunk.js",
+    "static/css/main.fe0063e9.chunk.css",
+    "static/js/main.c9a319f0.chunk.js"
+  ]
+}
