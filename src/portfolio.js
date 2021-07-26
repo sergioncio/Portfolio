@@ -126,7 +126,7 @@ export const educationInfo = [
 		],
 	},
 	{
-		schoolName: "University Miguel Hernández of Elche",
+		schoolName: "Miguel Hernández University of Elche",
 		subHeader: "PCAP: Programming essentials in Python",
 		duration: "November 2020 - February 2021",
 		desc: "",
