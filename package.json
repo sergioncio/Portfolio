@@ -1,6 +1,7 @@
 {
-	"name": "developer-portfolio",
-	"version": "1.0.0",
+	"name": "Sergio",
+	"homepage": ".",
+	"version": "0.1.0",
 	"description": "Software Developer Portfolio built with react.js.",
 	"main": "index.js",
 	"repository": "https://github.com/sergioncio/Portfolio.git",
