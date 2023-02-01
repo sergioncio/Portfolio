@@ -1,13 +1,14 @@
 import emoji from "react-easy-emoji";
 
 import DHlogo from "./assets/img/icons/common/DH.png";
+import MetaenlaceLogo from "./assets/img/icons/common/Metaenlace.jpg";
 import Pdf from './Resume.pdf';
 
 export const greetings = {
 	name: "Sergio Garcia",
 	title: "Hi, I'm Sergio",
 	description:
-		"A last year Telematics Engineering student passionate with Software Development and Web Development. Also, I have worked with Object Detection AI algorithms. I am looking for a full time job where I can grow as a professional",
+		"Determined, organized, proactive engineer willing to keep learning about new technologies and facing new challenges that would help me to develop professionally and personally.",
 	resumeLink: Pdf,
 };
 
@@ -147,6 +148,21 @@ export const educationInfo = [
 
 export const experience = [
 	{
+		role: "Full-Stack Developer",
+		company: "Metaenlace Sistemas de información S.L.",
+		companylogo: MetaenlaceLogo,
+		date: "October 2021 – Present",
+		desc: "WebApp developing.",
+		descBullets: [
+			"Spring Framework",
+			"JSF",
+			"SQL",
+			"JAVA",
+			"JPA",
+			"Hibernate",
+		],
+	},
+	{
 		role: "Product Engineer",
 		company: "Decision Habitat",
 		companylogo: DHlogo,
@@ -157,6 +173,7 @@ export const experience = [
 			"YOLO",
 		],
 	},
+	
 ];
 
 export const projects = [
