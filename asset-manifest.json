@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.0847d6d3.chunk.css",
-    "main.js": "./static/js/main.0734dea3.chunk.js",
-    "main.js.map": "./static/js/main.0734dea3.chunk.js.map",
+    "main.js": "./static/js/main.4ba00f7a.chunk.js",
+    "main.js.map": "./static/js/main.4ba00f7a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.8ac724a8.js",
     "runtime-main.js.map": "./static/js/runtime-main.8ac724a8.js.map",
     "static/js/2.5004dab8.chunk.js": "./static/js/2.5004dab8.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/2.5004dab8.chunk.js.LICENSE.txt": "./static/js/2.5004dab8.chunk.js.LICENSE.txt",
     "static/media/Navigation.css": "./static/media/Agustina.320d237b.otf",
     "static/media/DH.febee658.png": "./static/media/DH.febee658.png",
-    "static/media/Resume.d3384de4.pdf": "./static/media/Resume.d3384de4.pdf",
+    "static/media/Resume.e4e849b9.pdf": "./static/media/Resume.e4e849b9.pdf",
     "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/nucleo.css": "./static/media/nucleo-icons.d6a66724.ttf"
   },
@@ -20,6 +20,6 @@
     "static/js/runtime-main.8ac724a8.js",
     "static/js/2.5004dab8.chunk.js",
     "static/css/main.0847d6d3.chunk.css",
-    "static/js/main.0734dea3.chunk.js"
+    "static/js/main.4ba00f7a.chunk.js"
   ]
 }
